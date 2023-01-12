@@ -1,0 +1,19 @@
+{
+  "name": "npminit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intisarosman1/npm-init.git"
+  },
+  "author": "Intisar Osman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/intisarosman1/npm-init/issues"
+  },
+  "homepage": "https://github.com/intisarosman1/npm-init#readme"
+}
